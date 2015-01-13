@@ -1,0 +1,20 @@
+{
+  "name": "classpro",
+  "version": "0.0.0",
+  "description": "my ticket to get one million dollars from investor",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "classpro",
+    "student",
+    "database",
+    "blog"
+  ],
+  "author": "zeiba baig",
+  "license": "ISC",
+    "dependencies":{
+        "express"="4.10.7
+    }
+}
